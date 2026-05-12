@@ -1,0 +1,2 @@
+# MULTIMODAL-SENTIMENT-INTENSITY-PREDICTION-A-REGRESSION-MODEL-BASED-ON-IMAGE-TEXT-FUSION---
+This project implements a multimodal regression pipeline to predict social media sentiment intensity on a 0–5 scale using the MVSA-Multiple dataset. The architecture utilizes a late-fusion approach, concatenating 768-D text features from BERT and 512-D visual features from ResNet18 into a lightweight MLP regressor.
